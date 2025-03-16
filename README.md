@@ -1,4 +1,4 @@
-# Snake Game
+# Snake Game 🐍
 
 ## About The Project
 
@@ -8,7 +8,7 @@ The Snake Game is a classic arcade-style game built using HTML, CSS, and JavaScr
 - **HTML5**: For the game structure.
 - **CSS3**: For styling the game interface.
 - **JavaScript**: For the game logic, including controlling the snake and detecting collisions.
-- - **Audio**: Sound effects when eating food and when the game is over.
+- **Audio**: Sound effects when eating food and when the game is over.
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ Before starting, ensure you have the following software installed:
 - Right-click the index.html file and select Open with Live Server.
 - Your project will be accessible at http://localhost:5500 (or another port if 5500 is occupied).
 
-### Usage
+### Usage:
 - Use the arrow keys (Up, Down, Left, Right) to control the snake's movement.
 - The objective is to eat the food that appears on the screen. Each time the snake eats food, it grows longer.
 - Avoid hitting the walls or the snake’s own body.
